@@ -1,0 +1,29 @@
+{
+    "workbench.sideBar.location": "right",
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "chat.viewSessions.orientation": "stacked",
+    "files.autoSave": "afterDelay",
+    "files.trimTrailingWhitespace": true,
+    "git.suggestSmartCommit": false,
+    "git.openRepositoryInParentFolders": "never",
+    "git.confirmSync": false,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "cmake.configureOnOpen": true,
+    "go.toolsManagement.autoUpdate": true,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "[nix]": {
+        "editor.defaultFormatter": "brettm12345.nixfmt-vscode"
+    }
+}
